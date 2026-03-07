@@ -6,8 +6,7 @@
 
 **Organização e Pesquisa: Sebastião de Abreu Cavalcante**
 
-*Pesquisador Independente* | **ORCID:** [0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016)
-**DOI:** 10.5281/zenodo.18896354
+*Pesquisador Independente* | **ORCID:** [0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016) | **DOI:** 10.5281/zenodo.18896354
 
 ---
 
