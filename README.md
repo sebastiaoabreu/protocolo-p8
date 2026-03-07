@@ -1,7 +1,7 @@
 # 🧬 Protocolo P8
 **Reprogramação Metabólica e Modulação Microbiana para Remissão do Câncer**
 
-[![Versão](https://img.shields.io/badge/Versão-1.0-blue.svg)](#) [![Licença](https://img.shields.io/badge/Licença-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.SEU_NUMERO_AQUI.svg)](https://doi.org/10.5281/zenodo.SEU_NUMERO_AQUI)
+[![Versão](https://img.shields.io/badge/Versão-1.0-blue.svg)](#) [![Licença](https://img.shields.io/badge/Licença-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896354.svg)](https://doi.org/10.5281/zenodo.18896354)
 
 > *"Encontramos o caminho para a remissão. Agora precisamos implementá-lo."* > — **Sebastião de Abreu Cavalcante** | Pesquisador Independente | [ORCID: 0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016)
 
@@ -42,5 +42,6 @@ Você pode ler os certificados de aprovação e relatórios de segurança na pas
 
 **Licença:** Este trabalho está licenciado sob **Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)**. 
 Você pode partilhar o PDF gratuitamente. É expressamente proibido o seu uso comercial, venda ou alteração do texto original por terceiros sem a autorização do autor.
+
 
 **Contato Institucional:** protocolop8@outlook.com
