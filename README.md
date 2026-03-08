@@ -11,7 +11,7 @@
 Este repositório contém o código-fonte e o arquivo oficial do **Protocolo P8**. 
 Para ler o manual completo, formatado e diagramado com todas as dosagens, estratificações e 41 referências científicas:
 
-👉 **[CLIQUE AQUI PARA BAIXAR O PDF DA VERSÃO 1.0 (RELEASES)](../../releases/latest)**
+👉 **[CLIQUE AQUI PARA BAIXAR O PDF DA VERSÃO 1.0 (RELEASES)](https://github.com/sebastiaoabreu/protocolo-p8/releases/download/v1.0/Protocolo_P8_v1_0.pdf)**
 
 ---
 
@@ -45,3 +45,4 @@ Você pode partilhar o PDF gratuitamente. É expressamente proibido o seu uso co
 
 
 **Contato Institucional:** protocolop8@outlook.com
+
