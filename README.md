@@ -3,7 +3,7 @@
 [![Versão](https://img.shields.io/badge/Versão-1.0-blue.svg)](#) [![Licença](https://img.shields.io/badge/Licença-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18896354.svg)](https://doi.org/10.5281/zenodo.18896354)
 
 > *"Encontramos o caminho para a remissão. Agora precisamos implementá-lo."*
-> — **Sebastião de Abreu Cavalcante** | Pesquisador Independente | [ORCID: 0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016)
+> — **Sebastião de Abreu Cavalcante** | Pesquisador Independente | [ORCID](https://orcid.org/0009-0005-1879-7016) | [Repositório GitHub](https://github.com/sebastiaoabreu/protocolo-p8)
 
 ---
 
@@ -41,7 +41,14 @@ Diferente de abordagens alternativas isoladas, o Protocolo P8 ataca o câncer co
 
 Para garantir o mais alto padrão de precisão matemática e segurança clínica, toda a pesquisa e curadoria humana deste manuscrito (v1.0) foi submetida a uma rigorosa **Auditoria Técnica Cruzada**. Múltiplos modelos de Inteligência Artificial de ponta (Claude Opus 4.5, Gemini 3.1 Pro, DeepSeek R1, Grok 4 e Qwen 3.5 Plus) foram utilizados como ferramentas de estresse para checagem de dados, interações medicamentosas e contraindicações toxicológicas.
 
-Os certificados de aprovação e relatórios de segurança encontram-se documentados na pasta `/auditorias_ia` deste repositório.
+Os certificados de aprovação e relatórios de segurança encontram-se documentados na pasta **[`/auditorias_ia`](https://github.com/sebastiaoabreu/protocolo-p8/tree/main/auditorias_ia)** deste repositório.
+
+---
+
+## 🔗 Links Oficiais
+* **Repositório Oficial:** [github.com/sebastiaoabreu/protocolo-p8](https://github.com/sebastiaoabreu/protocolo-p8)
+* **Registro Acadêmico (ORCID):** [0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016)
+* **Zenodo (DOI):** [10.5281/zenodo.18896354](https://doi.org/10.5281/zenodo.18896354)
 
 ---
 
@@ -55,5 +62,6 @@ Este trabalho está licenciado sob **[Creative Commons Atribuição-NãoComercia
 
 ---
 *Palavras-chave de busca: tratamento integrativo do câncer, dieta cetogênica oncológica, efeito Warburg, microbiota intestinal e câncer, TMAO, imunoterapia, jejum intermitente oncologia, neuroimunologia, metabolismo tumoral, remissão do câncer.*
+
 
 
