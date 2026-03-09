@@ -1,25 +1,87 @@
-# PROTOCOLO P8: Reprogramação Metabólica e Modulação Microbiana para Remissão do Câncer
+<div align="center">
 
-## Guia Completo para Implementação Clínica
+<br>
 
----
+# ⚕️ PROTOCOLO P8
 
-**Organização e Pesquisa: Sebastião de Abreu Cavalcante**
+### Reprogramação Metabólica e Modulação Microbiana<br>para Remissão do Câncer
 
-*Pesquisador Independente* | **ORCID:** [0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016) | **DOI:** 10.5281/zenodo.18896354
+**Guia Completo para Implementação Clínica**
 
----
+<br>
 
-**"Encontramos o caminho para a remissão. Agora precisamos implementá-lo."**
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1879--7016-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1879-7016)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18896354-3F8FD2?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.18896354)
 
----
+[![Version](https://img.shields.io/badge/Versão-1.1-FF6B35?style=flat-square)](https://github.com/sebastiaoabreu/protocolo-p8)
+[![License](https://img.shields.io/badge/Licença-CC%20BY--NC--ND%204.0-EF9421?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Date](https://img.shields.io/badge/Março_2026-Primeira_Edição_Revisada-4A90D9?style=flat-square)](https://doi.org/10.5281/zenodo.18896354)
 
-**Versão:** 1.0 – Primeira Edição Pública  
-**Data:** Março de 2026  
+<br>
+
+*Organização e Pesquisa:* **Sebastião de Abreu Cavalcante**  
+*Pesquisador Independente*
+
+<br>
+
+> *"Encontramos o caminho para a remissão. Agora precisamos implementá-lo."*
+
+<br>
+
 **Propósito:** Transformar o tratamento do câncer globalmente
 
+</div>
+
 ---
 
+[TOC]
+
+<details>
+<summary><strong>📑 SUMÁRIO — Clique para expandir</strong></summary>
+
+<br>
+
+**SEÇÕES PRELIMINARES**
+- [Licença e Termos de Uso](#-licença-e-termos-de-uso)
+- [Certificação de Revisão Técnica](#-certificação-de-revisão-técnica-versão-10--11)
+- [Nota Essencial ao Leitor](#️-nota-essencial-ao-leitor)
+- [Aviso Legal de Não-Garantia](#-aviso-legal-de-não-garantia-disclaimer-jurídico)
+- [Prefácio: A Jornada Metabólica](#prefácio-a-jornada-metabólica)
+- [Resumo Executivo](#-resumo-executivo--por-que-este-protocolo-é-diferente)
+- [Responsabilidade e Segurança](#️-responsabilidade-e-segurança)
+- [Guia de Navegação](#-guia-de-navegação-como-usar-este-manual)
+
+**PARTE I: A DESCOBERTA**
+- [Cap. 1 — O Câncer Não É O Que Nos Disseram](#capítulo-1-o-câncer-não-é-o-que-nos-disseram)
+- [Cap. 2 — O Ecossistema da Cura](#capítulo-2-o-ecossistema-da-cura)
+- [Cap. 3 — Estratificação Obrigatória do TMAO](#capítulo-3-estratificação-obrigatória-do-tmao-por-tipo-de-câncer)
+- [Cap. 4 — O Metabolismo Como Arma](#capítulo-4-o-metabolismo-como-arma--a-engenharia-da-fome-seletiva)
+- [Cap. 5 — O Tempo Como Terapia](#capítulo-5-o-tempo-como-terapia--a-cronobiologia-oncológica)
+- [Cap. 6 — A Sinergia do Protocolo P8](#capítulo-6-a-sinergia-do-protocolo-p8)
+- [Cap. 7 — O Modelo P8: A Arquitetura da Remissão](#capítulo-7-o-modelo-p8--a-arquitetura-da-remissão)
+
+**PARTE II: IMPLEMENTAÇÃO SEGURA**
+- [Cap. 8 — Contraindicações e Precauções](#capítulo-8-contraindicações-e-precauções)
+- [Cap. 9 — Protocolo Completo: Passo a Passo](#capítulo-9-protocolo-completo--passo-a-passo)
+- [Cap. 10 — Intervenções Avançadas](#capítulo-10-intervenções-avançadas--sob-supervisão-médica)
+- [Cap. 11 — Casos Clínicos Ilustrativos](#capítulo-11-casos-clínicos-ilustrativos)
+- [Cap. 12 — Implementação Prática e Custos](#capítulo-12-implementação-prática-e-custos)
+
+**PARTE III: A CIÊNCIA POR TRÁS**
+- [Cap. 13 — Referências Científicas Principais](#capítulo-13-referências-científicas-principais)
+- [Cap. 14 — Leituras Recomendadas e Recursos](#capítulo-14-leituras-recomendadas-e-recursos)
+
+**APÊNDICES**
+- [Apêndice A — Lista de Suplementos por Nível de Custo](#apêndice-a-lista-completa-de-suplementos-por-nível-de-custo)
+- [Apêndice B — Modelo de Registro Diário](#apêndice-b-modelo-de-registro-diário)
+- [Apêndice C — Protocolo de Emergência](#apêndice-c-protocolo-de-emergência)
+- [Apêndice D — Glossário de Termos](#apêndice-d-glossário-de-termos)
+- [Apêndice E — Perguntas Frequentes (FAQ)](#apêndice-e-perguntas-frequentes-faq)
+- [Apêndice F — Resumos Visuais (Para Colar na Geladeira)](#apêndice-f-resumos-visuais-para-colar-na-geladeira)
+
+</details>
+
+---
 ## 📜 LICENÇA E TERMOS DE USO
 
 Este trabalho está licenciado sob **Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)**.
@@ -43,7 +105,7 @@ Se você deseja traduzir o Protocolo P8 para seu idioma ou representa uma editor
 
 ---
 
-### 🔬 CERTIFICAÇÃO DE REVISÃO TÉCNICA (Versão 1.0)
+### 🔬 CERTIFICAÇÃO DE REVISÃO TÉCNICA (Versão 1.0 / 1.1)
 
 Toda a pesquisa, estruturação lógica e curadoria deste protocolo são de **autoria intelectual humana e independente**.
 
@@ -56,7 +118,9 @@ Para garantir o mais alto nível de precisão matemática e segurança clínica,
 3. Auditoria de consistência bibliográfica
 4. Análise de segurança para populações especiais (imunossuprimidos, renais, hepáticos)
 
-*As recomendações de segurança resultantes desta auditoria, combinadas com a minha análise crítica, foram incorporadas nesta Versão 1.0 definitiva.*
+*As recomendações de segurança resultantes desta auditoria, combinadas com a minha análise crítica, foram incorporadas nesta versão definitiva.*
+
+**Nota sobre a Versão 1.1:** Os certificados de auditoria da v1.0 permanecem válidos, pois a v1.1 contém apenas correções bibliográficas (Referência 39) e notas explicativas adicionais, sem alteração nas condutas clínicas, dosagens ou contraindicações.
 
 ---
 
@@ -134,50 +198,7 @@ Enquanto a oncologia convencional ataca o tumor com uma arma de cada vez (cirurg
 
 ### O Cerco Metabólico: 8 Frentes de Ataque Simultâneo
 
-```
-                        ┌─────────────────────────────────┐
-                        │      🎯 CÉLULA TUMORAL 🎯       │
-                        └─────────────────────────────────┘
-                                       │
-       ┌───────────────────────────────┼───────────────────────────────┐
-       │                               │                               │
-       ▼                               ▼                               ▼
-┌──────────────┐               ┌──────────────┐               ┌──────────────┐
-│  1. CETOSE   │               │  2. JEJUM    │               │ 3. ANTI-     │
-│  Corta       │               │  Depleta     │               │ GLUTAMINA    │
-│  glicose     │               │  reservas    │               │ Fecha porta  │
-│  (porta      │               │  + ativa     │               │ dos fundos   │
-│  principal)  │               │  autofagia   │               │              │
-└──────────────┘               └──────────────┘               └──────────────┘
-       │                               │                               │
-       └───────────────────────────────┼───────────────────────────────┘
-                                       │
-       ┌───────────────────────────────┼───────────────────────────────┐
-       │                               │                               │
-       ▼                               ▼                               ▼
-┌──────────────┐               ┌──────────────┐               ┌──────────────┐
-│ 4. MICROBIOTA│               │5. CRONOBIO-  │               │ 6. ATIVAÇÃO  │
-│ TMAO* eleva  │               │   LOGIA      │               │    VAGAL     │
-│ imunidade    │               │ Timing       │               │ Desliga      │
-│ Butirato     │               │ otimizado    │               │ inflamação   │
-│ mata tumor   │               │ de tudo      │               │ crônica      │
-└──────────────┘               └──────────────┘               └──────────────┘
-       │                               │                               │
-       └───────────────────────────────┼───────────────────────────────┘
-                                       │
-       ┌───────────────────────────────┼───────────────────────────────┐
-       │                               │                               │
-       ▼                               ▼                               ▼
-┌──────────────┐               ┌──────────────┐               ┌──────────────┐
-│ 7. FERROPTOSE│               │8. POTENCIA-  │               │   RESULTADO  │
-│ Oxidação     │               │   LIZAÇÃO    │               │              │
-│ seletiva     │               │ Quimio e     │               │   REMISSÃO   │
-│ do tumor     │               │ imunoterapia │               │              │
-│ (Vit C IV)   │               │ mais eficazes│               │              │
-└──────────────┘               └──────────────┘               └──────────────┘
-
-*TMAO: Apenas para cânceres do GRUPO VERDE — ver Capítulo 3
-```
+![O Cerco Metabólico: 8 Frentes de Ataque Simultâneo](assets/cerco-8-frentes.svg)
 
 **O tumor não consegue escapar.** Se foge da cetose pela glutamina, encontra bloqueio. Se tenta crescer à noite, encontra jejum. Se recruta inflamação, encontra ativação vagal. O cerco é total.
 
@@ -424,27 +445,7 @@ Pesquisas recentes demonstram que:
 
 O Protocolo P8 nasce da integração de descobertas de múltiplas disciplinas:
 
-```
-METABOLISMO + MICROBIOTA + CRONOBIOLOGIA + SISTEMA IMUNE
-                        ↓
-              ATAQUE MULTIVETORIAL
-                        ↓
-    ┌─────────────────────────────────────────────────────┐
-    │  • PRIVAÇÃO DE GLICOSE (cetogênica + jejum)         │
-    │  • BLOQUEIO DA GLUTAMINA (anti-glutaminólise)       │
-    │  • MODULAÇÃO MICROBIANA (TMAO*, butirato)           │
-    │  • SINCRONIZAÇÃO CIRCADIANA (cronoterapia)         │
-    │  • DESSINCRONIZAÇÃO CIRCADIANA DO TUMOR             │
-    │  • OTIMIZAÇÃO IMUNE (micronutrientes)               │
-    │  • POTENCIALIZAÇÃO DE TRATAMENTOS                   │
-    │  • MICROAMBIENTE HOSTIL AO TUMOR                    │
-    │  • INIBIÇÃO DE ANGIOGÊNESE                          │
-    │  • INDUÇÃO DE FERROPTOSE (oxidação seletiva)        │
-    │  • ATIVAÇÃO VAGAL (neuro-imunidade)                 │
-    └─────────────────────────────────────────────────────┘
-                        ↓
-                   REMISSÃO
-```
+![A Síntese Revolucionária — Ataque Multivetorial](assets/ataque-multivetorial.svg)
 
 *TMAO apenas para GRUPO VERDE — ver Capítulo 3
 
@@ -477,18 +478,7 @@ Este ecossistema produz metabólitos que não ficam restritos ao intestino; eles
 
 A comunicação entre intestino e tumor é bidirecional:
 
-```
-INTESTINO                          TUMOR
-    │                                │
-    ├──── Metabólitos ──────────────►│ Modulam crescimento
-    │                                │
-    ├──── Citocinas ────────────────►│ Afetam microambiente
-    │                                │
-    ├──── Células imunes ───────────►│ Infiltram e atacam
-    │                                │
-    │◄─── Fatores tumorais ──────────┤ Alteram microbiota
-    │                                │
-```
+![O Eixo Intestino–Tumor](assets/eixo-intestino-tumor.svg)
 
 **Por isso tratamos o intestino para curar o câncer.**
 
@@ -562,9 +552,10 @@ O exame de TMAO plasmático ainda não está amplamente disponível na rede labo
 **Cânceres incluídos:** Pâncreas, Melanoma, Mama Triplo-Negativo (TNBC), Pulmão NSCLC, Glioblastoma
 
 **Evidência científica:**
-- Estudo Science Immunology 2022: TMAO elevado aumentou resposta a anti-PD-1 em pâncreas de 17% para 67%
+- Estudo Science Immunology 2022 (Mirji et al.): Em modelos pré-clínicos de adenocarcinoma pancreático, TMAO elevado aumentou resposta a anti-PD-1 de 17% para 67%
 - Mecanismo: TMAO ativa via PERK/CHOP em macrófagos, convertendo M2→M1
 - Corroborado por dados em melanoma e TNBC
+- **Nota:** Os valores de resposta (17% → 67%) referem-se a modelos murinos (pré-clínicos), não a ensaios clínicos em humanos. Ensaios clínicos são necessários para confirmar esses efeitos em pacientes.
 
 **Protocolo para Grupo Verde:**
 
@@ -601,22 +592,7 @@ Como o TMAO elevado tem correlação com risco cardiovascular em outros contexto
 
 **Algoritmo de Decisão para Grupo Amarelo:**
 
-```
-PACIENTE GRUPO AMARELO
-         │
-         ▼
-    MEDIR TMAO e PCR-us
-         │
-         ├── Se TMAO > 10 e PCR-us < 2: OK, manter
-         │
-         ├── Se TMAO > 10 e PCR-us > 2: REDUZIR TMAO
-         │
-         ├── Se TMAO < 5 e em imunoterapia: PODE ELEVAR
-         │       (se PCR-us < 2)
-         │
-         └── Se TMAO < 5 e NÃO em imunoterapia: MANTER
-                 (foco em cetose)
-```
+![Algoritmo de Decisão — Grupo Amarelo](assets/algoritmo-grupo-amarelo.svg)
 
 #### 🔴 GRUPO VERMELHO — TMAO Como Inimigo
 
@@ -835,6 +811,8 @@ Não podemos zerar a glutamina (o intestino e o sistema imune precisam dela), ma
 | Vitamina D | 10.000 UI | Manhã |
 | Exercício resistido | 3x/semana | Adaptado à capacidade |
 
+**⚠️ NOTA SOBRE LEUCINA E mTOR:** A ativação de mTOR via Leucina neste protocolo visa exclusivamente a síntese proteica muscular para combater a sarcopenia, devendo ser administrada de forma pulsada (com as refeições proteicas) e preferencialmente associada a estímulo mecânico (exercício resistido). A ativação de mTOR neste contexto é localizada e temporária, diferente da ativação sistêmica crônica de mTOR que favorece o crescimento tumoral.
+
 #### Protocolo de Emergência para Sarcopenia Ativa:
 
 Se houver perda muscular ativa durante cetose:
@@ -933,17 +911,7 @@ Estimular o nervo vago não é apenas uma prática de relaxamento; é **imunomod
 
 **Protocolo Integrado:**
 
-```
-MANHÃ (ao acordar):
-├── Respiração 4-7-8 (6 ciclos)
-├── Exposição ao frio no rosto (30s)
-└── Total: 5 minutos
-
-NOITE (antes de dormir):
-├── Cantarolar/Humming (5 min)
-├── Respiração 4-7-8 (6 ciclos)
-└── Total: 8 minutos
-```
+![Protocolo Integrado de Ativação Vagal](assets/protocolo-vagal.svg)
 
 **Evidência:** A estimulação vagal está sendo estudada em ensaios clínicos como adjuvante em oncologia, com resultados preliminares promissores em redução de fadiga e melhora da qualidade de vida.
 
@@ -991,7 +959,7 @@ Ensaios clínicos de 2024-2025 confirmaram que a dieta cetogênica **durante** a
 
 ### 6.4 ⚠️ Risco de Metástase com Cetose Profunda — Atenção Especial
 
-**Estudo Columbia 2024 (Science Advances):** Em modelo de mama (inclui TNBC), dieta cetogênica reduziu tumor primário mas **aumentou metástases pulmonares** via BACH1 (glucose starvation → ATF4 → BACH1 ativa genes pró-metastáticos).
+**Estudo Columbia 2024 (Science Advances — Su Z et al.):** Em modelo de mama (inclui TNBC), dieta cetogênica reduziu tumor primário mas **aumentou metástases pulmonares** via BACH1 (glucose starvation → ATF4 → BACH1 ativa genes pró-metastáticos).
 
 **Referência:** DOI: 10.1126/sciadv.adm9481
 
@@ -1001,9 +969,7 @@ Ensaios clínicos de 2024-2025 confirmaram que a dieta cetogênica **durante** a
 
 Em cânceres de mama (especialmente TNBC), a privação de glicose (cetose) pode ativar a proteína **BACH1** através da via:
 
-```
-Cetose → Privação de Glicose → ATF4 → BACH1 → Genes Pró-Metastáticos
-```
+![Via BACH1 — Mecanismo de Metástase](assets/via-bach1.svg)
 
 BACH1 usa antioxidantes endógenos para proteger a célula tumoral e facilitar migração (metástase), mesmo enquanto o tumor primário diminui.
 
@@ -1013,21 +979,7 @@ O mesmo estudo demonstrou que antioxidantes específicos contrabalançam esse ef
 
 **REGRA DE SEGURANÇA BACH1:**
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  SE você tem CÂNCER DE MAMA (qualquer tipo, especialmente TNBC)    ║
-║  E está fazendo dieta cetogênica estrita (GKI < 3.0)               ║
-║                                                                    ║
-║  ENTÃO: NAC (N-Acetilcisteína) é OBRIGATÓRIO                       ║
-║                                                                    ║
-║  • Dose: 600mg a 1200mg, 2x ao dia                                 ║
-║  • Por que: NAC inibe o estresse oxidativo que "gatilha" a via     ║
-║    BACH1, anulando o sinal pró-metastático enquanto mantém a       ║
-║    pressão metabólica no tumor primário                            ║
-║                                                                    ║
-║  ⚠️ NÃO PULE ESTA REGRA                                            ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Regra de Segurança BACH1](assets/regra-bach1.svg)
 
 **Protocolo Completo para Câncer de Mama em Cetose:**
 
@@ -1037,6 +989,8 @@ O mesmo estudo demonstrou que antioxidantes específicos contrabalançam esse ef
 | **Vitamina E (tocoferóis mistos)** | 400-800 UI | Com refeição | Antioxidante lipofílico |
 | **Selênio** | 200mcg | Manhã | Cofator glutationa |
 | **Sulforafano** | 50-100mg | Manhã | Indutor Nrf2 |
+
+**Nota sobre a base científica do Protocolo BACH1:** A inclusão do NAC como modulador da via BACH1 baseia-se na plausibilidade biológica da regulação do estresse oxidativo descrita por Su Z et al. (2024, *Science Advances*). O estudo demonstrou em modelos murinos que a inibição genética ou farmacológica de BACH1 abolia completamente as metástases induzidas pela dieta cetogênica. O NAC, como precursor de glutationa, atua na modulação do estresse oxidativo que ativa a via ATF4→BACH1. Estudos clínicos confirmatórios em humanos são necessários.
 
 **Monitoramento Adicional para Mama em Cetose:**
 
@@ -1238,44 +1192,7 @@ Consulte a Tabela 1 (Capítulo 3) e determine:
 
 #### A. Dieta de Transição
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    SEMANAS 1-2: LIMPEZA                            ║
-╠════════════════════════════════════════════════════════════════════╣
-║  ELIMINAR:                                                         ║
-║  ├── Açúcar refinado e adoçantes artificiais                       ║
-║  ├── Farinhas brancas e grãos refinados                            ║
-║  ├── Óleos vegetais industriais (soja, canola, milho)              ║
-║  ├── Ultraprocessados                                              ║
-║  └── Álcool                                                        ║
-║                                                                    ║
-║  MANTER:                                                           ║
-║  ├── Proteínas limpas (carne, peixe, ovos)                         ║
-║  ├── Vegetais abundantes                                           ║
-║  ├── Gorduras naturais (azeite, coco, abacate)                     ║
-║  └── Frutas low-carb (berries)                                     ║
-╚════════════════════════════════════════════════════════════════════╝
-
-╔════════════════════════════════════════════════════════════════════╗
-║                    SEMANAS 3-4: TRANSIÇÃO                          ║
-╠════════════════════════════════════════════════════════════════════╣
-║  REDUZIR carboidratos para < 50g/dia                               ║
-║  ├── Eliminar grãos completamente                                  ║
-║  ├── Eliminar frutas (exceto berries ocasionais)                   ║
-║  ├── Eliminar leguminosas                                          ║
-║  └── Eliminar raízes/tubérculos                                    ║
-║                                                                    ║
-║  AUMENTAR:                                                         ║
-║  ├── Gorduras saudáveis (70% das calorias)                         ║
-║  ├── Vegetais verdes e crucíferas                                  ║
-║  ├── Proteína adequada (1.2-1.5g/kg)                               ║
-║  └── Eletrólitos (sódio, potássio, magnésio)                       ║
-║                                                                    ║
-║  INICIAR:                                                          ║
-║  ├── Jejum 12:12 → 14:10 → 16:8                                    ║
-║  └── Medição de cetonas (sangue ou urina)                          ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Fase 1: Dieta de Transição](assets/dieta-transicao.svg)
 
 #### ⚠️ IMPORTANTE: O QUE ESPERAR NAS PRIMEIRAS SEMANAS ("KETO FLU")
 
@@ -1445,68 +1362,7 @@ GKI = 1.67
 
 #### D. Rotina do Dia Modelo (Fase Intensiva)
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    ROTINA DO DIA MODELO — FASE 2                   ║
-╠════════════════════════════════════════════════════════════════════╣
-║  06:00 - ACORDAR                                                   ║
-║  ├── Medir glicose e cetonas                                       ║
-║  ├── Calcular GKI                                                  ║
-║  ├── Exposição à luz solar 10-20 min                               ║
-║  └── Respiração 4-7-8 (6 ciclos)                                   ║
-║                                                                    ║
-║  06:30 - SUPLEMENTOS EM JEJUM                                      ║
-║  ├── Probiótico (50-100 bilhões UFC)                               ║
-║  └── Água com eletrólitos (sódio, potássio, magnésio)              ║
-║                                                                    ║
-║  07:00 - EXERCÍCIO (opcional, adaptado)                            ║
-║  ├── Caminhada ou exercício leve                                   ║
-║  └── 20-40 minutos                                                 ║
-║                                                                    ║
-║  12:00 - PRIMEIRA REFEIÇÃO (quebra do jejum 18:6)                  ║
-║  ├── Proteína (150-200g carne/peixe/ovos)                          ║
-║  ├── Gordura (azeite, abacate)                                     ║
-║  ├── Vegetais verdes abundantes                                    ║
-║  └── SUPLEMENTOS COM REFEIÇÃO:                                     ║
-║      • Vitamina D3 10.000 UI + K2 200mcg                           ║
-║      • Ômega-3 2g                                                  ║
-║      • CoQ10 200mg                                                 ║
-║      • Complexo B                                                  ║
-║      • Curcumina 1g (com piperina e gordura)                       ║
-║      • Berberina 500mg                                             ║
-║      • [GRUPO VERDE: Colina 500mg + L-Carnitina 500mg]             ║
-║      • [GRUPO VERMELHO: Butirato 1g]                               ║
-║                                                                    ║
-║  15:00 - SUPLEMENTOS TARDE                                         ║
-║  ├── EGCG 300mg (com lanche leve, NUNCA em jejum)                  ║
-║  ├── Resveratrol 500mg                                             ║
-║  └── L-Teanina 200mg                                               ║
-║                                                                    ║
-║  18:00 - SEGUNDA REFEIÇÃO (última do dia)                          ║
-║  ├── Proteína moderada                                             ║
-║  ├── Gordura adequada                                              ║
-║  ├── Vegetais                                                      ║
-║  └── SUPLEMENTOS:                                                  ║
-║      • Ômega-3 2g                                                  ║
-║      • NAC 600mg                                                   ║
-║      • Vitamina C 1g                                               ║
-║      • [GRUPO VERDE: Colina 500mg + L-Carnitina 500mg]             ║
-║      • [GRUPO VERMELHO: Butirato 1g + Citrato K 2g]                ║
-║                                                                    ║
-║  20:00 - INÍCIO DO JEJUM                                           ║
-║  └── Apenas água, chá ou café preto                                ║
-║                                                                    ║
-║  21:00 - PREPARAÇÃO PARA DORMIR                                    ║
-║  ├── Reduzir luz artificial                                        ║
-║  ├── Magnésio 400mg                                                ║
-║  ├── NAC 600mg                                                     ║
-║  └── Respiração/Meditação                                          ║
-║                                                                    ║
-║  22:00 - DORMIR                                                    ║
-║  ├── Melatonina 3-5mg                                              ║
-║  └── Ambiente escuro e fresco                                      ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Rotina do Dia Modelo — Fase 2](assets/rotina-dia-modelo.svg)
 
 ### 9.5 FASE 3: MANUTENÇÃO E AJUSTES (Semana 13+)
 
@@ -1567,29 +1423,7 @@ A verdade é que o câncer vive num equilíbrio antioxidante precário. Para sob
 
 **A Regra de Ouro do Timing:**
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  REGRA: Suspenda os antioxidantes potentes por 12-24h ANTES        ║
-║  de uma sessão pró-oxidante (Vit C IV, Hiperbárica, Artemisinina). ║
-║                                                                    ║
-║  Por quê? Porque antioxidantes podem "apagar o fogo" que           ║
-║  queremos gerar DENTRO do tumor, reduzindo a eficácia da terapia.  ║
-║                                                                    ║
-║  SUSPENDER antes da sessão:                                        ║
-║  • NAC                                                             ║
-║  • Vitamina C oral (dose alta)                                     ║
-║  • Vitamina E                                                      ║
-║  • Glutationa                                                      ║
-║  • Alpha-ácido lipóico                                             ║
-║                                                                    ║
-║  PODE MANTER:                                                      ║
-║  • Curcumina (tem efeitos pró-oxidantes também)                    ║
-║  • EGCG (dose baixa)                                               ║
-║  • Selênio (dose baixa)                                            ║
-║                                                                    ║
-║  RETOMAR: 6-12h após a sessão pró-oxidante                         ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Regra de Timing — Paradoxo Oxidativo](assets/regra-timing-antioxidantes.svg)
 
 Este capítulo detalha terapias avançadas que **REQUEREM supervisão médica especializada**. Não tente implementá-las sozinho.
 
@@ -1599,13 +1433,7 @@ Este capítulo detalha terapias avançadas que **REQUEREM supervisão médica es
 
 Em doses farmacológicas (25-100g IV), a Vitamina C não atua como antioxidante — atua como **pró-oxidante seletivo**.
 
-```
-Vitamina C IV → Gera H₂O₂ (peróxido de hidrogênio) no sangue
-                    ↓
-Células normais: Têm catalase → Neutralizam H₂O₂ → Protegidas
-                    ↓
-Células tumorais: Pouca catalase → H₂O₂ acumula → Dano oxidativo → Morte
-```
+![Mecanismo Seletivo da Vitamina C Intravenosa](assets/vitamina-c-iv-mecanismo.svg)
 
 #### Protocolo Padrão
 
@@ -1677,20 +1505,7 @@ O DCA inibe a piruvato desidrogenase quinase (PDK), forçando a célula tumoral 
 
 #### ⚠️ OBRIGATÓRIO COM DCA
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  TIAMINA (Vitamina B1): 300-500 mg/dia É OBRIGATÓRIA               ║
-║                                                                    ║
-║  Por quê? DCA depleta tiamina. Sem ela, ocorre:                    ║
-║  • Neuropatia periférica (dor, formigamento, fraqueza)             ║
-║  • Encefalopatia de Wernicke                                       ║
-║  • Dano potencialmente irreversível                                ║
-║                                                                    ║
-║  TAMBÉM RECOMENDADO:                                               ║
-║  • Ácido alfa-lipóico: 600mg/dia (neuroproteção)                   ║
-║  • Acetil-L-carnitina: 1-2g/dia (se não for Grupo Vermelho)        ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Alerta Obrigatório — Tiamina com DCA](assets/alerta-tiamina-dca.svg)
 
 #### Contraindicações Absolutas para DCA
 
@@ -2203,7 +2018,7 @@ Os casos abaixo são **ilustrativos e educacionais**, baseados em padrões obser
 
 ### Protocolo BACH1 (Metástase em Cetose)
 
-39. **Lee JV et al.** A tumor-suppressor function for BACH1 in breast cancer cells undergoing metabolic stress. *Science Advances*. 2024;10:eadm9481. DOI: 10.1126/sciadv.adm9481
+39. **Su Z et al.** An unexpected role for the ketogenic diet in triggering tumor metastasis by modulating BACH1-mediated transcription. *Science Advances*. 2024;10(23):eadm9481. DOI: 10.1126/sciadv.adm9481
 
 ### Glutaminólise
 
@@ -2533,106 +2348,19 @@ R: Apresente as referências científicas (Parte III). Se ainda houver resistên
 
 ### F.1 Resumo do Sistema Semáforo TMAO
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    🚦 SISTEMA SEMÁFORO TMAO                        ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  🟢 GRUPO VERDE — ELEVAR TMAO (15-20 μM)                           ║
-║     Pâncreas, Melanoma, TNBC, Pulmão NSCLC, Glioblastoma           ║
-║     → Colina 1-2g/dia + Carnitina 1-2g/dia                         ║
-║                                                                    ║
-║  🟡 GRUPO AMARELO — NEUTRO (5-10 μM)                               ║
-║     Mama (outros), Ovário, Bexiga, Esôfago, Estômago               ║
-║     → Sem suplementação de precursores, foco em cetose             ║
-║                                                                    ║
-║  🔴 GRUPO VERMELHO — SUPRIMIR (< 5 μM)                             ║
-║     Colorretal, Próstata, Fígado, Rim, Endométrio                  ║
-║     → ZERO Colina/Carnitina + Butirato 2-4g/dia                    ║
-║                                                                    ║
-║  ⚠️  Câncer não listado? → Tratar como AMARELO                     ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Sistema Semáforo TMAO](assets/semaforo-tmao.svg)
 
 ### F.2 Tipos principais: Cuidados Especiais
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    ⚠️ ALERTAS POR TIPO DE CÂNCER                   ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  🎀 MAMA (todos os tipos):                                         ║
-║     → NAC OBRIGATÓRIO em cetose (Protocolo BACH1)                  ║
-║     → 600-1200mg 2x/dia                                            ║
-║                                                                    ║
-║  🟤 COLORRETAL:                                                    ║
-║     → ZERO Colina/Carnitina                                        ║
-║     → Butirato 4g/dia + Aspirina 100mg                             ║
-║                                                                    ║
-║  🔵 PRÓSTATA:                                                      ║
-║     → ZERO Colina/Carnitina                                        ║
-║     → Licopeno 30-50mg + Citrato K                                 ║
-║                                                                    ║
-║  🟠 FÍGADO:                                                        ║
-║     → ZERO Colina/Carnitina                                        ║
-║     → Silimarina 420mg + NAC 1200mg                                ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Alertas por Tipo de Câncer](assets/alertas-tipo-cancer.svg)
 
 ### F.3 Checklist Diário Rápido
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    ✓ CHECKLIST DIÁRIO P8                           ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  MANHÃ:                                                            ║
-║  ☐ Medir glicose e cetonas → Calcular GKI                          ║
-║  ☐ Ativação vagal (5 min)                                          ║
-║  ☐ Exposição solar (20 min)                                        ║
-║  ☐ Suplementos matinais                                            ║
-║                                                                    ║
-║  DIA:                                                              ║
-║  ☐ Refeições cetogênicas (< 20-30g carbs)                          ║
-║  ☐ Proteína adequada (1.5-2g/kg)                                   ║
-║  ☐ Hidratação + eletrólitos                                        ║
-║  ☐ Exercício (se possível)                                         ║
-║                                                                    ║
-║  NOITE:                                                            ║
-║  ☐ Última refeição até 19h                                         ║
-║  ☐ Ativação vagal (8 min)                                          ║
-║  ☐ Suplementos noturnos                                            ║
-║  ☐ Ambiente escuro, telas off                                      ║
-║  ☐ Dormir até 22h                                                  ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![Checklist Diário P8](assets/checklist-diario.svg)
 
 ### F.4 Regras de Ouro (Nunca Esqueça)
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    🏆 AS 7 REGRAS DE OURO                          ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  1. NUNCA abandone o tratamento convencional                       ║
-║                                                                    ║
-║  2. SEMPRE informe seu oncologista                                 ║
-║                                                                    ║
-║  3. GRUPO VERMELHO: ZERO Colina/Carnitina                          ║
-║                                                                    ║
-║  4. MAMA em cetose: NAC é OBRIGATÓRIO                              ║
-║                                                                    ║
-║  5. DCA: NUNCA sem supervisão + Tiamina 300-500mg/dia              ║
-║                                                                    ║
-║  6. Vit C IV: Testar G6PD ANTES                                    ║
-║                                                                    ║
-║  7. Monitore-se: GKI diário, exames regulares                      ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![As 7 Regras de Ouro](assets/regras-ouro.svg)
 
 ---
 
@@ -2695,9 +2423,9 @@ Devido à natureza ética e legal deste trabalho, **o autor não realiza consult
 
 * **E-mail Profissional:** protocolop8@outlook.com
 * **Registro Acadêmico (ORCID):** [0009-0005-1879-7016](https://orcid.org/0009-0005-1879-7016)
-* **LinkedIn:** linkedin.com/in/sebastiaoabreu
-* **X (Twitter):** @sebastiaoac
-* **Repositório Oficial (GitHub):** github.com/sebastiaoabreu/protocolo-p8
+* **LinkedIn:** [linkedin.com/in/sebastiaoabreu](https://linkedin.com/in/sebastiaoabreu)
+* **X:** [@sebastiaoac](https://x.com/sebastiaoac)
+* **Repositório Oficial (GitHub):** [github.com/sebastiaoabreu/protocolo-p8](https://github.com/sebastiaoabreu/protocolo-p8)
 
 ---
 
