@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <filter id="sh4" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="440" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="380" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#1e293b">Algoritmo de Decisão — Grupo Amarelo</text>
+
+  <!-- Start -->
+  <rect x="265" y="42" width="230" height="36" rx="18" fill="#eab308" filter="url(#sh4)"/>
+  <text x="380" y="65" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">PACIENTE GRUPO AMARELO</text>
+
+  <line x1="380" y1="78" x2="380" y2="100" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="380,104 375,97 385,97" fill="#94a3b8"/>
+
+  <!-- Step 1 -->
+  <rect x="275" y="106" width="210" height="32" rx="6" fill="#fef3c7" stroke="#d97706" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="380" y="126" text-anchor="middle" font-size="11" font-weight="600" fill="#92400e">MEDIR TMAO e PCR-us</text>
+
+  <line x1="380" y1="138" x2="380" y2="158" stroke="#94a3b8" stroke-width="1.5"/>
+
+  <!-- Branch lines - 4 evenly spaced branches -->
+  <line x1="95" y1="162" x2="665" y2="162" stroke="#94a3b8" stroke-width="1"/>
+
+  <!-- Branch 1: x=95 -->
+  <line x1="95" y1="162" x2="95" y2="182" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="20" y="184" width="150" height="62" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="95" y="203" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">TMAO &gt; 10</text>
+  <text x="95" y="218" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">PCR-us &lt; 2</text>
+  <text x="95" y="238" text-anchor="middle" font-size="10" fill="#15803d">→ OK, manter</text>
+
+  <!-- Branch 2: x=285 -->
+  <line x1="285" y1="162" x2="285" y2="182" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="210" y="184" width="150" height="62" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="285" y="203" text-anchor="middle" font-size="10" font-weight="600" fill="#991b1b">TMAO &gt; 10</text>
+  <text x="285" y="218" text-anchor="middle" font-size="10" font-weight="600" fill="#991b1b">PCR-us &gt; 2</text>
+  <text x="285" y="238" text-anchor="middle" font-size="10" fill="#dc2626">→ REDUZIR TMAO</text>
+
+  <!-- Branch 3: x=475 -->
+  <line x1="475" y1="162" x2="475" y2="182" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="400" y="184" width="150" height="62" rx="6" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="475" y="203" text-anchor="middle" font-size="10" font-weight="600" fill="#1e40af">TMAO &lt; 5</text>
+  <text x="475" y="218" text-anchor="middle" font-size="10" font-weight="600" fill="#1e40af">Em imunoterapia</text>
+  <text x="475" y="238" text-anchor="middle" font-size="10" fill="#2563eb">→ PODE ELEVAR</text>
+
+  <!-- Branch 4: x=665 -->
+  <line x1="665" y1="162" x2="665" y2="182" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="590" y="184" width="150" height="62" rx="6" fill="#f5f5f4" stroke="#78716c" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="665" y="203" text-anchor="middle" font-size="10" font-weight="600" fill="#44403c">TMAO &lt; 5</text>
+  <text x="665" y="218" text-anchor="middle" font-size="10" font-weight="600" fill="#44403c">SEM imunoterapia</text>
+  <text x="665" y="238" text-anchor="middle" font-size="10" fill="#78716c">→ MANTER</text>
+
+  <!-- Sub-conditions -->
+  <line x1="475" y1="246" x2="475" y2="268" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="415" y="270" width="120" height="22" rx="4" fill="#dbeafe"/>
+  <text x="475" y="285" text-anchor="middle" font-size="9" fill="#1e40af">(se PCR-us &lt; 2)</text>
+
+  <line x1="665" y1="246" x2="665" y2="268" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="605" y="270" width="120" height="22" rx="4" fill="#f5f5f4"/>
+  <text x="665" y="285" text-anchor="middle" font-size="9" fill="#44403c">(foco em cetose)</text>
+
+  <!-- Summary box -->
+  <rect x="155" y="318" width="450" height="100" rx="8" fill="#fff" stroke="#d97706" stroke-width="1.5" filter="url(#sh4)"/>
+  <text x="380" y="342" text-anchor="middle" font-size="11" font-weight="700" fill="#92400e">RESUMO — GRUPO AMARELO</text>
+  <text x="380" y="364" text-anchor="middle" font-size="10" fill="#374151">TMAO alvo: 5–10 μM  |  Foco principal: Cetose (GKI &lt; 3.0)</text>
+  <text x="380" y="384" text-anchor="middle" font-size="10" fill="#374151">Monitoramento: mensal (TMAO + marcadores tumorais)</text>
+  <text x="380" y="404" text-anchor="middle" font-size="9" fill="#6b7280">Sem suplementação de precursores de TMAO, salvo se em imunoterapia com PCR-us controlada</text>
+</svg>

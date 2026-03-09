@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <filter id="sh2" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-opacity="0.12"/>
+    </filter>
+    <linearGradient id="topGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="520" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="350" y="32" text-anchor="middle" font-size="15" font-weight="700" fill="#1e293b">A Síntese Revolucionária — Ataque Multivetorial</text>
+
+  <!-- Top integration bar -->
+  <rect x="75" y="50" width="550" height="40" rx="20" fill="url(#topGrad)" filter="url(#sh2)"/>
+  <text x="350" y="75" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">METABOLISMO + MICROBIOTA + CRONOBIOLOGIA + SISTEMA IMUNE</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="90" x2="350" y2="115" stroke="#6366f1" stroke-width="2"/>
+  <polygon points="350,120 344,110 356,110" fill="#6366f1"/>
+
+  <!-- Middle label -->
+  <rect x="225" y="122" width="250" height="30" rx="6" fill="#4f46e5" filter="url(#sh2)"/>
+  <text x="350" y="142" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">ATAQUE MULTIVETORIAL</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="152" x2="350" y2="172" stroke="#4f46e5" stroke-width="2"/>
+  <polygon points="350,177 344,167 356,167" fill="#4f46e5"/>
+
+  <!-- Interventions box -->
+  <rect x="100" y="180" width="500" height="260" rx="10" fill="#fff" stroke="#c7d2fe" stroke-width="2" filter="url(#sh2)"/>
+
+  <!-- Items with colored bullets -->
+  <circle cx="130" cy="207" r="5" fill="#3b82f6"/>
+  <text x="145" y="211" font-size="12" fill="#1e293b">Privação de Glicose <tspan fill="#6b7280" font-size="10">(cetogênica + jejum)</tspan></text>
+
+  <circle cx="130" cy="231" r="5" fill="#3b82f6"/>
+  <text x="145" y="235" font-size="12" fill="#1e293b">Bloqueio da Glutamina <tspan fill="#6b7280" font-size="10">(anti-glutaminólise)</tspan></text>
+
+  <circle cx="130" cy="255" r="5" fill="#8b5cf6"/>
+  <text x="145" y="259" font-size="12" fill="#1e293b">Modulação Microbiana <tspan fill="#6b7280" font-size="10">(TMAO*, butirato)</tspan></text>
+
+  <circle cx="130" cy="279" r="5" fill="#a855f7"/>
+  <text x="145" y="283" font-size="12" fill="#1e293b">Sincronização Circadiana <tspan fill="#6b7280" font-size="10">(cronoterapia)</tspan></text>
+
+  <circle cx="130" cy="303" r="5" fill="#a855f7"/>
+  <text x="145" y="307" font-size="12" fill="#1e293b">Dessincronização Circadiana do Tumor</text>
+
+  <circle cx="130" cy="327" r="5" fill="#059669"/>
+  <text x="145" y="331" font-size="12" fill="#1e293b">Otimização Imune <tspan fill="#6b7280" font-size="10">(micronutrientes)</tspan></text>
+
+  <circle cx="130" cy="351" r="5" fill="#059669"/>
+  <text x="145" y="355" font-size="12" fill="#1e293b">Potencialização de Tratamentos Convencionais</text>
+
+  <circle cx="130" cy="375" r="5" fill="#dc2626"/>
+  <text x="145" y="379" font-size="12" fill="#1e293b">Microambiente Hostil ao Tumor</text>
+
+  <circle cx="130" cy="399" r="5" fill="#dc2626"/>
+  <text x="145" y="403" font-size="12" fill="#1e293b">Inibição de Angiogênese + Indução de Ferroptose</text>
+
+  <circle cx="130" cy="423" r="5" fill="#f59e0b"/>
+  <text x="145" y="427" font-size="12" fill="#1e293b">Ativação Vagal <tspan fill="#6b7280" font-size="10">(neuro-imunidade)</tspan></text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="440" x2="350" y2="462" stroke="#16a34a" stroke-width="2"/>
+  <polygon points="350,468 344,458 356,458" fill="#16a34a"/>
+
+  <!-- Result -->
+  <rect x="250" y="470" width="200" height="36" rx="18" fill="#16a34a" filter="url(#sh2)"/>
+  <text x="350" y="493" text-anchor="middle" font-size="14" font-weight="800" fill="#fff">REMISSÃO</text>
+
+  <!-- Footnote -->
+  <text x="350" y="517" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">*TMAO apenas para GRUPO VERDE — ver Capítulo 3</text>
+</svg>

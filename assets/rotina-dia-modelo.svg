@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 780" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <filter id="sh11" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="780" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="360" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#1e293b">Rotina do Dia Modelo — Fase 2 (Intensiva)</text>
+
+  <!-- Timeline line -->
+  <line x1="90" y1="50" x2="90" y2="750" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- 06:00 -->
+  <circle cx="90" cy="65" r="8" fill="#f59e0b"/>
+  <text x="72" y="69" text-anchor="end" font-size="11" font-weight="700" fill="#f59e0b">06:00</text>
+  <rect x="112" y="48" width="580" height="72" rx="8" fill="#fff" stroke="#fbbf24" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="66" font-size="12" font-weight="700" fill="#92400e">ACORDAR</text>
+  <text x="125" y="82" font-size="10" fill="#374151">• Medir glicose e cetonas  • Calcular GKI</text>
+  <text x="125" y="96" font-size="10" fill="#374151">• Exposição à luz solar 10-20 min  • Respiração 4-7-8 (6 ciclos)</text>
+  <text x="125" y="110" font-size="10" fill="#374151">• Ativação vagal</text>
+
+  <!-- 06:30 -->
+  <circle cx="90" cy="145" r="8" fill="#f59e0b"/>
+  <text x="72" y="149" text-anchor="end" font-size="11" font-weight="700" fill="#f59e0b">06:30</text>
+  <rect x="112" y="130" width="580" height="48" rx="8" fill="#fff" stroke="#fbbf24" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="150" font-size="12" font-weight="700" fill="#92400e">SUPLEMENTOS EM JEJUM</text>
+  <text x="125" y="166" font-size="10" fill="#374151">• Probiótico (50-100 bilhões UFC)  • Água com eletrólitos (Na, K, Mg)</text>
+
+  <!-- 07:00 -->
+  <circle cx="90" cy="205" r="8" fill="#f59e0b"/>
+  <text x="72" y="209" text-anchor="end" font-size="11" font-weight="700" fill="#f59e0b">07:00</text>
+  <rect x="112" y="190" width="580" height="48" rx="8" fill="#fff" stroke="#fbbf24" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="210" font-size="12" font-weight="700" fill="#92400e">EXERCÍCIO (opcional, adaptado)</text>
+  <text x="125" y="226" font-size="10" fill="#374151">• Caminhada ou exercício leve  • 20-40 minutos</text>
+
+  <!-- 12:00 -->
+  <circle cx="90" cy="275" r="8" fill="#16a34a"/>
+  <text x="72" y="279" text-anchor="end" font-size="11" font-weight="700" fill="#16a34a">12:00</text>
+  <rect x="112" y="250" width="580" height="130" rx="8" fill="#fff" stroke="#4ade80" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="270" font-size="12" font-weight="700" fill="#166534">PRIMEIRA REFEIÇÃO (quebra do jejum 18:6)</text>
+  <text x="125" y="288" font-size="10" fill="#374151">• Proteína (150-200g carne/peixe/ovos)  • Gordura (azeite, abacate)</text>
+  <text x="125" y="304" font-size="10" fill="#374151">• Vegetais verdes abundantes</text>
+  <text x="125" y="322" font-size="10" font-weight="600" fill="#475569">Suplementos:</text>
+  <text x="125" y="338" font-size="9" fill="#374151">Vit D3 10.000 UI + K2 200mcg | Ômega-3 2g | CoQ10 200mg | Complexo B</text>
+  <text x="125" y="352" font-size="9" fill="#374151">Curcumina 1g (piperina+gordura) | Berberina 500mg</text>
+  <text x="125" y="366" font-size="9" fill="#16a34a">[VERDE: Colina 500mg + L-Carnitina 500mg]</text>
+  <text x="410" y="366" font-size="9" fill="#dc2626">[VERMELHO: Butirato 1g]</text>
+
+  <!-- 15:00 -->
+  <circle cx="90" cy="410" r="8" fill="#8b5cf6"/>
+  <text x="72" y="414" text-anchor="end" font-size="11" font-weight="700" fill="#8b5cf6">15:00</text>
+  <rect x="112" y="392" width="580" height="56" rx="8" fill="#fff" stroke="#a78bfa" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="412" font-size="12" font-weight="700" fill="#5b21b6">SUPLEMENTOS TARDE</text>
+  <text x="125" y="428" font-size="10" fill="#374151">• EGCG 300mg (com lanche leve, NUNCA em jejum)</text>
+  <text x="125" y="440" font-size="10" fill="#374151">• Resveratrol 500mg  • L-Teanina 200mg</text>
+
+  <!-- 18:00 -->
+  <circle cx="90" cy="480" r="8" fill="#16a34a"/>
+  <text x="72" y="484" text-anchor="end" font-size="11" font-weight="700" fill="#16a34a">18:00</text>
+  <rect x="112" y="460" width="580" height="86" rx="8" fill="#fff" stroke="#4ade80" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="480" font-size="12" font-weight="700" fill="#166534">SEGUNDA REFEIÇÃO (última do dia)</text>
+  <text x="125" y="498" font-size="10" fill="#374151">• Proteína moderada  • Gordura adequada  • Vegetais</text>
+  <text x="125" y="514" font-size="10" font-weight="600" fill="#475569">Suplementos:</text>
+  <text x="125" y="530" font-size="9" fill="#374151">Ômega-3 2g | NAC 600mg | Vitamina C 1g</text>
+  <text x="125" y="540" font-size="9" fill="#16a34a">[VERDE: Colina 500mg + L-Carnitina 500mg]</text>
+  <text x="410" y="540" font-size="9" fill="#dc2626">[VERMELHO: Butirato 1g + Citrato K 2g]</text>
+
+  <!-- 20:00 -->
+  <circle cx="90" cy="575" r="8" fill="#6366f1"/>
+  <text x="72" y="579" text-anchor="end" font-size="11" font-weight="700" fill="#6366f1">20:00</text>
+  <rect x="112" y="560" width="580" height="40" rx="8" fill="#fff" stroke="#818cf8" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="580" font-size="12" font-weight="700" fill="#3730a3">INÍCIO DO JEJUM</text>
+  <text x="125" y="592" font-size="10" fill="#374151">• Apenas água, chá ou café preto</text>
+
+  <!-- 21:00 -->
+  <circle cx="90" cy="630" r="8" fill="#6366f1"/>
+  <text x="72" y="634" text-anchor="end" font-size="11" font-weight="700" fill="#6366f1">21:00</text>
+  <rect x="112" y="612" width="580" height="56" rx="8" fill="#fff" stroke="#818cf8" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="632" font-size="12" font-weight="700" fill="#3730a3">PREPARAÇÃO PARA DORMIR</text>
+  <text x="125" y="648" font-size="10" fill="#374151">• Reduzir luz artificial  • Magnésio 400mg  • NAC 600mg</text>
+  <text x="125" y="660" font-size="10" fill="#374151">• Respiração/Meditação</text>
+
+  <!-- 22:00 -->
+  <circle cx="90" cy="698" r="8" fill="#1e293b"/>
+  <text x="72" y="702" text-anchor="end" font-size="11" font-weight="700" fill="#1e293b">22:00</text>
+  <rect x="112" y="680" width="580" height="48" rx="8" fill="#fff" stroke="#334155" stroke-width="1.5" filter="url(#sh11)"/>
+  <text x="125" y="700" font-size="12" font-weight="700" fill="#1e293b">DORMIR</text>
+  <text x="125" y="716" font-size="10" fill="#374151">• Melatonina 3-5mg  • Ambiente escuro e fresco</text>
+
+  <!-- Legend -->
+  <rect x="150" y="740" width="420" height="28" rx="6" fill="#f1f5f9"/>
+  <circle cx="180" cy="754" r="5" fill="#f59e0b"/>
+  <text x="192" y="758" font-size="9" fill="#475569">Manhã</text>
+  <circle cx="240" cy="754" r="5" fill="#16a34a"/>
+  <text x="252" y="758" font-size="9" fill="#475569">Refeições</text>
+  <circle cx="320" cy="754" r="5" fill="#8b5cf6"/>
+  <text x="332" y="758" font-size="9" fill="#475569">Suplementos</text>
+  <circle cx="420" cy="754" r="5" fill="#6366f1"/>
+  <text x="432" y="758" font-size="9" fill="#475569">Jejum/Noite</text>
+  <circle cx="510" cy="754" r="5" fill="#1e293b"/>
+  <text x="522" y="758" font-size="9" fill="#475569">Sono</text>
+</svg>

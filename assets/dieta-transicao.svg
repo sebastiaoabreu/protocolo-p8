@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 480" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <filter id="sh10" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="680" height="480" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="340" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#1e293b">Fase 1: Preparação — Dieta de Transição</text>
+
+  <!-- PHASE 1: Semanas 1-2 -->
+  <rect x="20" y="42" width="640" height="200" rx="10" fill="#fff" stroke="#3b82f6" stroke-width="2" filter="url(#sh10)"/>
+  <rect x="20" y="42" width="640" height="36" rx="10" fill="#3b82f6"/>
+  <rect x="20" y="68" width="640" height="10" fill="#3b82f6"/>
+  <text x="340" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">SEMANAS 1-2: LIMPEZA</text>
+
+  <!-- ELIMINAR column -->
+  <text x="55" y="100" font-size="11" font-weight="700" fill="#dc2626">ELIMINAR:</text>
+  <text x="55" y="118" font-size="10" fill="#374151">✕  Açúcar refinado e adoçantes artificiais</text>
+  <text x="55" y="134" font-size="10" fill="#374151">✕  Farinhas brancas e grãos refinados</text>
+  <text x="55" y="150" font-size="10" fill="#374151">✕  Óleos vegetais industriais (soja, canola, milho)</text>
+  <text x="55" y="166" font-size="10" fill="#374151">✕  Ultraprocessados</text>
+  <text x="55" y="182" font-size="10" fill="#374151">✕  Álcool</text>
+
+  <!-- Divider -->
+  <line x1="345" y1="88" x2="345" y2="230" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- MANTER column -->
+  <text x="370" y="100" font-size="11" font-weight="700" fill="#16a34a">MANTER:</text>
+  <text x="370" y="118" font-size="10" fill="#374151">✓  Proteínas limpas (carne, peixe, ovos)</text>
+  <text x="370" y="134" font-size="10" fill="#374151">✓  Vegetais abundantes</text>
+  <text x="370" y="150" font-size="10" fill="#374151">✓  Gorduras naturais (azeite, coco, abacate)</text>
+  <text x="370" y="166" font-size="10" fill="#374151">✓  Frutas low-carb (berries)</text>
+
+  <!-- Arrow between phases -->
+  <line x1="340" y1="242" x2="340" y2="262" stroke="#94a3b8" stroke-width="2"/>
+  <polygon points="340,266 334,258 346,258" fill="#94a3b8"/>
+
+  <!-- PHASE 2: Semanas 3-4 -->
+  <rect x="20" y="270" width="640" height="198" rx="10" fill="#fff" stroke="#8b5cf6" stroke-width="2" filter="url(#sh10)"/>
+  <rect x="20" y="270" width="640" height="36" rx="10" fill="#8b5cf6"/>
+  <rect x="20" y="296" width="640" height="10" fill="#8b5cf6"/>
+  <text x="340" y="294" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">SEMANAS 3-4: TRANSIÇÃO</text>
+
+  <!-- REDUZIR column -->
+  <text x="55" y="328" font-size="11" font-weight="700" fill="#dc2626">REDUZIR carboidratos para &lt; 50g/dia:</text>
+  <text x="55" y="346" font-size="10" fill="#374151">✕  Eliminar grãos completamente</text>
+  <text x="55" y="362" font-size="10" fill="#374151">✕  Eliminar frutas (exceto berries ocasionais)</text>
+  <text x="55" y="378" font-size="10" fill="#374151">✕  Eliminar leguminosas</text>
+  <text x="55" y="394" font-size="10" fill="#374151">✕  Eliminar raízes/tubérculos</text>
+
+  <!-- Divider -->
+  <line x1="345" y1="316" x2="345" y2="456" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- AUMENTAR column -->
+  <text x="370" y="328" font-size="11" font-weight="700" fill="#16a34a">AUMENTAR:</text>
+  <text x="370" y="346" font-size="10" fill="#374151">✓  Gorduras saudáveis (70% das calorias)</text>
+  <text x="370" y="362" font-size="10" fill="#374151">✓  Vegetais verdes e crucíferas</text>
+  <text x="370" y="378" font-size="10" fill="#374151">✓  Proteína adequada (1.2-1.5g/kg)</text>
+  <text x="370" y="394" font-size="10" fill="#374151">✓  Eletrólitos (sódio, potássio, magnésio)</text>
+
+  <text x="370" y="420" font-size="11" font-weight="700" fill="#3b82f6">INICIAR:</text>
+  <text x="370" y="438" font-size="10" fill="#374151">→  Jejum 12:12 → 14:10 → 16:8</text>
+  <text x="370" y="454" font-size="10" fill="#374151">→  Medição de cetonas (sangue ou urina)</text>
+</svg>

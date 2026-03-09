@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 420" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <filter id="shF4" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="580" height="420" rx="12" fill="#fff" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="580" height="48" rx="12" fill="#b45309"/>
+  <rect x="0" y="30" width="580" height="18" fill="#b45309"/>
+  <text x="290" y="33" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">🏆 AS 7 REGRAS DE OURO</text>
+
+  <!-- Rule 1 -->
+  <circle cx="43" cy="77" r="16" fill="#dc2626"/>
+  <text x="43" y="82" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">1</text>
+  <text x="70" y="82" font-size="12" font-weight="600" fill="#1e293b">NUNCA abandone o tratamento convencional</text>
+
+  <!-- Rule 2 -->
+  <circle cx="43" cy="117" r="16" fill="#dc2626"/>
+  <text x="43" y="122" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">2</text>
+  <text x="70" y="122" font-size="12" font-weight="600" fill="#1e293b">SEMPRE informe seu oncologista</text>
+
+  <!-- Rule 3 -->
+  <circle cx="43" cy="162" r="16" fill="#dc2626"/>
+  <text x="43" y="167" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">3</text>
+  <text x="70" y="162" font-size="12" font-weight="600" fill="#1e293b">GRUPO VERMELHO: ZERO Colina/Carnitina</text>
+  <text x="70" y="179" font-size="10" fill="#6b7280">Colorretal, Próstata, Fígado, Rim, Endométrio</text>
+
+  <!-- Rule 4 -->
+  <circle cx="43" cy="214" r="16" fill="#ec4899"/>
+  <text x="43" y="219" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">4</text>
+  <text x="70" y="214" font-size="12" font-weight="600" fill="#1e293b">MAMA em cetose: NAC é OBRIGATÓRIO</text>
+  <text x="70" y="231" font-size="10" fill="#6b7280">Protocolo BACH1 — 600-1200mg 2x/dia</text>
+
+  <!-- Rule 5 -->
+  <circle cx="43" cy="266" r="16" fill="#f59e0b"/>
+  <text x="43" y="271" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">5</text>
+  <text x="70" y="266" font-size="12" font-weight="600" fill="#1e293b">DCA: NUNCA sem supervisão médica</text>
+  <text x="70" y="283" font-size="10" fill="#6b7280">+ Tiamina (B1) 300-500mg/dia OBRIGATÓRIA</text>
+
+  <!-- Rule 6 -->
+  <circle cx="43" cy="318" r="16" fill="#f59e0b"/>
+  <text x="43" y="323" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">6</text>
+  <text x="70" y="318" font-size="12" font-weight="600" fill="#1e293b">Vit C IV: Testar G6PD ANTES</text>
+  <text x="70" y="335" font-size="10" fill="#6b7280">Contraindicação absoluta se deficiente</text>
+
+  <!-- Rule 7 -->
+  <circle cx="43" cy="370" r="16" fill="#3b82f6"/>
+  <text x="43" y="375" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">7</text>
+  <text x="70" y="370" font-size="12" font-weight="600" fill="#1e293b">Monitore-se: GKI diário, exames regulares</text>
+  <text x="70" y="387" font-size="10" fill="#6b7280">PCR-us semanal, marcadores tumorais mensais</text>
+</svg>
